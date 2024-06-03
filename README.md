@@ -16,31 +16,31 @@ Web Developer
       <a href="#debabin-stack">
         <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" style="max-width: 100%;">
       </a>
-      <br>Html5
-    </td>
+      <br>HTML5
+    </td>  
           <td align="center" width="110" height="90"> 
       <a href="#debabin-stack">
         <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" style="max-width: 100%;">
       </a>
-      <br>Css3
+      <br>CSS3
     </td>
     <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" style="max-width: 100%;">
       </a>
-      <br>javascript
+      <br>JavaScript
     </td>
     <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" style="max-width: 100%;">
       </a>
-      <br>typescript
+      <br>TypeScript
     </td>
         <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" width="36" height="36" alt="React" style="max-width: 100%;">
       </a>
-      <br>React
+      <br>React JS
     </td>
     <td align="center" width="110" height="90">
       <a href="#debabin-stack">
@@ -122,7 +122,4 @@ Web Developer
       </tbody>
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llite22&layout=compact)
 ### Socials
-
-<p align="left"> <a href="https://www.github.com/llite22" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/llite22" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
