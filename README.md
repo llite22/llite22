@@ -121,5 +121,3 @@ Web Developer
     </tr>
       </tbody>
 </table>
-
-### Socials
