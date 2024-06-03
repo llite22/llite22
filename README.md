@@ -60,45 +60,21 @@ Web Developer
       </a>
       <br>Vite
     </td>
-  <tr>
-      <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" style="max-width: 100%;">
-      </a>
-      <br>figma
-    </td>
-    <td align="center" width="110" height="90">
+  </tr>
+    <tr>
+          <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" style="max-width: 100%;">
       </a>
       <br>git
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
-        <img src="https://camo.githubusercontent.com/227bc6ef2620fef101417fa1c6664f509043622b5540651c90cabc164d408701/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f4e2f4e706d2d69636f6e2d766563746f722d30352e737667" width="36" height="36" alt="npm" data-canonical-src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" style="max-width: 100%;">
-      </a>
-      <br>npm
-    </td>
-    <td align="center" width="110" height="90"> 
+          <td align="center" width="110" height="90"> 
       <a href="#debabin-stack">
         <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" width="36" height="36" alt="github" style="max-width: 100%;">
       </a>
       <br>github
     </td>
-    <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://camo.githubusercontent.com/fd4a42ce74013aa14961f63b6f14717277806286c899e1a6a7565b6b2befed6b/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f452f45736c696e742d69636f6e2d766563746f722d30322e737667" width="36" height="36" alt="eslint" data-canonical-src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" style="max-width: 100%;">
-      </a>
-      <br>eslint
-    </td>
-      </tr>
-    <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://camo.githubusercontent.com/dad4532cf65827e9b3ce320a9249dda7c8ce505cba4dd514455eb6ca133e5a94/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f502f50726574746965722d69636f6e2d766563746f722d30322e737667" width="36" height="36" alt="prettier" data-canonical-src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" style="max-width: 100%;">
-      </a>
-      <br>prettier
-    </td>
-    <td align="center" width="110" height="90">
+          <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://camo.githubusercontent.com/3b322c4f87d096c868764a36aea13fd3c6bce8120250b2fa1331587b6289bca1/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f532f536173732d69636f6e2d766563746f722d30342e737667" width="36" height="36" alt="Sass" data-canonical-src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" style="max-width: 100%;">
       </a>
@@ -110,13 +86,39 @@ Web Developer
       </a>
       <br>Tailwind
     </td>
+          <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://camo.githubusercontent.com/fd4a42ce74013aa14961f63b6f14717277806286c899e1a6a7565b6b2befed6b/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f452f45736c696e742d69636f6e2d766563746f722d30322e737667" width="36" height="36" alt="eslint" data-canonical-src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" style="max-width: 100%;">
+      </a>
+      <br>eslint
+    </td>
     <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://camo.githubusercontent.com/dad4532cf65827e9b3ce320a9249dda7c8ce505cba4dd514455eb6ca133e5a94/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f502f50726574746965722d69636f6e2d766563746f722d30322e737667" width="36" height="36" alt="prettier" data-canonical-src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" style="max-width: 100%;">
+      </a>
+      <br>prettier
+    </td>
+      <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" style="max-width: 100%;">
+      </a>
+      <br>figma
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack">
+        <img src="https://camo.githubusercontent.com/227bc6ef2620fef101417fa1c6664f509043622b5540651c90cabc164d408701/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f4e2f4e706d2d69636f6e2d766563746f722d30352e737667" width="36" height="36" alt="npm" data-canonical-src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" style="max-width: 100%;">
+      </a>
+      <br>npm
+    </td>
+  </tr>
+    <tr>
+          <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://camo.githubusercontent.com/884e8e571a77f7c3d3cf008e798207c5df3058e183d25bcca4091075bd415941/68747470733a2f2f6272616e646c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30392f72656163742d6c6f676f2e706e67" width="36" height="36" alt="React Native" data-canonical-src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" style="max-width: 100%;">
       </a>
       <br>React Native
     </td>
-  </tr>
+    </tr>
       </tbody>
 </table>
 
