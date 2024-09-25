@@ -51,13 +51,13 @@ Web Developer
     </td>
             <td align="center" width="110" height="90">
       <a href="#debabin-stack">
-        <img src="https://camo.githubusercontent.com/e67e6d25e9a59468bd73f49610b82807302b289f1283f7b7995edfd821f5110d/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656475782e737667" width="36" height="36" alt="Redux" data-canonical-src="https://cdn.worldvectorlogo.com/logos/redux.svg" style="max-width: 100%;">
+        <img src="https://camo.githubusercontent.com/d8bfd8a9fdd10125b6f78135226375f25c8fecf6c3a7a5ff2138ed09d0663c9f/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656475782e737667" width="36" height="36" alt="Redux">
       </a>
       <br>Redux
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#debabin-stack">
-        <img src="https://camo.githubusercontent.com/2e1efd50b61f26c56e82929d735dce115937350e280abac98641c79d765da27c/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" width="36" height="36" alt="Vite" data-canonical-src="https://vitejs.dev/logo.svg" style="max-width: 100%;">
+        <img src="https://camo.githubusercontent.com/118beaba8872ecd1cc0fa048abc853d8a1717a549bd2627eade643e4a5fd66d3/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" width="36" height="36" alt="Vite" style="max-width: 100%;">
       </a>
       <br>Vite
     </td>
@@ -77,7 +77,7 @@ Web Developer
     </td>
           <td align="center" width="110" height="90">
       <a href="#debabin-stack">
-        <img src="https://camo.githubusercontent.com/3b322c4f87d096c868764a36aea13fd3c6bce8120250b2fa1331587b6289bca1/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f532f536173732d69636f6e2d766563746f722d30342e737667" width="36" height="36" alt="Sass" data-canonical-src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" style="max-width: 100%;">
+        <img src="https://camo.githubusercontent.com/e41ce10504c2e55c314230f99e140a8bbe8bba6d054188ae5919c2dac8dbf01b/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f532f536173732d69636f6e2d766563746f722d30342e737667" width="36" height="36" alt="Sass">
       </a>
       <br>Sass
     </td>
@@ -89,13 +89,13 @@ Web Developer
     </td>
           <td align="center" width="110" height="90">
       <a href="#debabin-stack">
-        <img src="https://camo.githubusercontent.com/fd4a42ce74013aa14961f63b6f14717277806286c899e1a6a7565b6b2befed6b/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f452f45736c696e742d69636f6e2d766563746f722d30322e737667" width="36" height="36" alt="eslint" data-canonical-src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" style="max-width: 100%;">
+        <img src="https://camo.githubusercontent.com/027272d1c5f7619685d747ab7eb2c5b35113d3eb1ab0df5f2fb75aa17f2aea66/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f452f45736c696e742d69636f6e2d766563746f722d30322e737667" width="36" height="36" alt="eslint">
       </a>
       <br>eslint
     </td>
     <td align="center" width="110" height="90">
       <a href="#debabin-stack">
-        <img src="https://camo.githubusercontent.com/dad4532cf65827e9b3ce320a9249dda7c8ce505cba4dd514455eb6ca133e5a94/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f502f50726574746965722d69636f6e2d766563746f722d30322e737667" width="36" height="36" alt="prettier" data-canonical-src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" style="max-width: 100%;">
+        <img src="https://camo.githubusercontent.com/6c8d72f388e2d6b04f54e4728fc0ec659585f16fa9cdedbbd651ea4a621d0378/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f502f50726574746965722d69636f6e2d766563746f722d30322e737667" width="36" height="36" alt="prettier">
       </a>
       <br>prettier
     </td>
@@ -107,7 +107,7 @@ Web Developer
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#debabin-stack">
-        <img src="https://camo.githubusercontent.com/227bc6ef2620fef101417fa1c6664f509043622b5540651c90cabc164d408701/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f4e2f4e706d2d69636f6e2d766563746f722d30352e737667" width="36" height="36" alt="npm" data-canonical-src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" style="max-width: 100%;">
+        <img src="https://camo.githubusercontent.com/b24b1e3ca056dfeba88c675fe30e1f5b3ed60313842016220ea6e7c91ba00f52/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f4e2f4e706d2d69636f6e2d766563746f722d30352e737667" width="36" height="36" alt="npm" data-canonical-src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" style="max-width: 100%;">
       </a>
       <br>npm
     </td>
