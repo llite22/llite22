@@ -119,6 +119,25 @@ Web Developer
       </a>
       <br>React Native
     </td>
+                <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://www.svgrepo.com/show/376332/laravel.svg" width="36" height="36">
+      </a>
+      <br>Laravel
+    </td>
+    </td>
+                <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://www.svgrepo.com/show/373969/php2.svg" width="36" height="36">
+      </a>
+      <br>PHP
+    </td>
+      <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="36" height="36">
+      </a>
+      <br>PostgreSQL
+    </td>
     </tr>
       </tbody>
 </table>
