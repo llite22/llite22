@@ -115,7 +115,7 @@ Web Developer
     <tr>
           <td align="center" width="110" height="90">
       <a href="#debabin-stack">
-        <img src="https://camo.githubusercontent.com/884e8e571a77f7c3d3cf008e798207c5df3058e183d25bcca4091075bd415941/68747470733a2f2f6272616e646c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30392f72656163742d6c6f676f2e706e67" width="36" height="36" alt="React Native" data-canonical-src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" style="max-width: 100%;">
+        <img src="https://camo.githubusercontent.com/212ba676406aa8f4ae82be6336716539a3a032d5ee9e11a94925a8291cdfee87/68747470733a2f2f6272616e646c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30392f72656163742d6c6f676f2e706e67" width="36" height="36">
       </a>
       <br>React Native
     </td>
