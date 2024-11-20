@@ -14,49 +14,49 @@ Web Developer
   <tbody>
     <tr>
           <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#llite22-stack">
         <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" style="max-width: 100%;">
       </a>
       <br>HTML5
     </td>  
           <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
+      <a href="#llite22-stack">
         <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" style="max-width: 100%;">
       </a>
       <br>CSS3
     </td>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#llite22-stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" style="max-width: 100%;">
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#llite22-stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" style="max-width: 100%;">
       </a>
       <br>TypeScript
     </td>
         <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#llite22-stack">
         <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" width="36" height="36" alt="React" style="max-width: 100%;">
       </a>
       <br>React JS
     </td>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#llite22-stack">
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" style="max-width: 100%;">
       </a>
       <br>Next JS
     </td>
             <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#llite22-stack">
         <img src="https://camo.githubusercontent.com/d8bfd8a9fdd10125b6f78135226375f25c8fecf6c3a7a5ff2138ed09d0663c9f/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656475782e737667" width="36" height="36" alt="Redux">
       </a>
       <br>Redux
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
+      <a href="#llite22-stack">
         <img src="https://camo.githubusercontent.com/118beaba8872ecd1cc0fa048abc853d8a1717a549bd2627eade643e4a5fd66d3/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" width="36" height="36" alt="Vite" style="max-width: 100%;">
       </a>
       <br>Vite
@@ -64,49 +64,49 @@ Web Developer
   </tr>
     <tr>
           <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#llite22-stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" style="max-width: 100%;">
       </a>
       <br>git
     </td>
           <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
+      <a href="#llite22-stack">
         <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" width="36" height="36" alt="github" style="max-width: 100%;">
       </a>
       <br>github
     </td>
           <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#llite22-stack">
         <img src="https://camo.githubusercontent.com/e41ce10504c2e55c314230f99e140a8bbe8bba6d054188ae5919c2dac8dbf01b/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f532f536173732d69636f6e2d766563746f722d30342e737667" width="36" height="36" alt="Sass">
       </a>
       <br>Sass
     </td>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#llite22-stack">
         <img src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" style="max-width: 100%;">
       </a>
       <br>Tailwind
     </td>
           <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#llite22-stack">
         <img src="https://camo.githubusercontent.com/027272d1c5f7619685d747ab7eb2c5b35113d3eb1ab0df5f2fb75aa17f2aea66/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f452f45736c696e742d69636f6e2d766563746f722d30322e737667" width="36" height="36" alt="eslint">
       </a>
       <br>eslint
     </td>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#llite22-stack">
         <img src="https://camo.githubusercontent.com/6c8d72f388e2d6b04f54e4728fc0ec659585f16fa9cdedbbd651ea4a621d0378/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f502f50726574746965722d69636f6e2d766563746f722d30322e737667" width="36" height="36" alt="prettier">
       </a>
       <br>prettier
     </td>
       <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#llite22-stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" style="max-width: 100%;">
       </a>
       <br>figma
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
+      <a href="#llite22-stack">
         <img src="https://camo.githubusercontent.com/b24b1e3ca056dfeba88c675fe30e1f5b3ed60313842016220ea6e7c91ba00f52/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f4e2f4e706d2d69636f6e2d766563746f722d30352e737667" width="36" height="36" alt="npm" data-canonical-src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" style="max-width: 100%;">
       </a>
       <br>npm
@@ -114,29 +114,53 @@ Web Developer
   </tr>
     <tr>
           <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#llite22-stack">
         <img src="https://camo.githubusercontent.com/212ba676406aa8f4ae82be6336716539a3a032d5ee9e11a94925a8291cdfee87/68747470733a2f2f6272616e646c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30392f72656163742d6c6f676f2e706e67" width="36" height="36">
       </a>
       <br>React Native
     </td>
                 <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#llite22-stack">
         <img src="https://www.svgrepo.com/show/376332/laravel.svg" width="36" height="36">
       </a>
       <br>Laravel
     </td>
     </td>
                 <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#llite22-stack">
         <img src="https://www.svgrepo.com/show/373969/php2.svg" width="36" height="36">
       </a>
       <br>PHP
     </td>
       <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#llite22-stack">
         <img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="36" height="36">
       </a>
       <br>PostgreSQL
+    </td>
+        <td align="center" width="110" height="90">
+      <a href="#llite22-stack">
+        <img src="https://camo.githubusercontent.com/28266f3fa2c62dc70e3c554fee18a397a74b0512aca9263997d5a1ee81831f2b/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f4e2f4e6573746a732d69636f6e2d766563746f722d30312e737667" width="36" height="36">
+      </a>
+      <br>Nest JS
+    </td>
+          <td align="center" width="110" height="90">
+      <a href="#llite22-stack">
+        <img src="https://camo.githubusercontent.com/c6c2090f5f1c5f17280533d3ef368dc48090afaa8b112ed42f21787eee27ea27/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f4e2f4e6f64656a732d69636f6e2d766563746f722d30322e737667" width="36" height="36">
+      </a>
+      <br>Node JS
+    </td>
+            <td align="center" width="110" height="90">
+      <a href="#llite22-stack">
+        <img src="https://camo.githubusercontent.com/302fb7a738e306e6f780d58b91610ea97ec62816b447fc79c8105b2a373b8424/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f502f507269736d612d69636f6e2d766563746f722d30312e737667" width="36" height="36">
+      </a>
+      <br>Prisma
+    </td>
+              <td align="center" width="110" height="90">
+      <a href="#llite22-stack">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" width="36" height="36">
+      </a>
+      <br>Docker
     </td>
     </tr>
       </tbody>
